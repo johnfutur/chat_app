@@ -17,5 +17,5 @@ A basic chat application built using Python and KivyMD. This is a demo program s
 pip install kivy kivymd
 python chat_app.py
 
-## CReated By  
+## Created By  
 ![Apps Factory PH](app.png)  
