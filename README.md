@@ -6,7 +6,7 @@ A lightweight and intuitive chat application built using Python and KivyMD. Desi
 A basic chat application built using Python and KivyMD. This is a demo program showcasing the UI and basic functionality.  
 
 ## Screenshot  
-![Chat App Screenshot](chat_app.png)  
+![Chat App Screenshot](chat_app.PNG)  
 
 ## Features  
 - Modern UI with KivyMD  
