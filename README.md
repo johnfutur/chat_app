@@ -11,11 +11,11 @@ A basic chat application built using Python and KivyMD. This is a demo program s
 ## Features  
 - Modern UI with KivyMD  
 - Basic chat interface
--  
+  
 ## Versions
-Python Version: 3.8.9 (tags/v3.8.9:a743f81, Apr 6 2021, 14:02:34) [MSC v.1928 64 bit (AMD64)]
-Kivy Version: 2.3.1
-KivyMD Version: 1.2.0
+- Python Version: 3.8.9 (tags/v3.8.9:a743f81, Apr 6 2021, 14:02:34) [MSC v.1928 64 bit (AMD64)]
+- Kivy Version: 2.3.1
+- KivyMD Version: 1.2.0
 
 ## Installation  
 ```bash
